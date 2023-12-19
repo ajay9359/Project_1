@@ -8,10 +8,15 @@ This report offers a comprehensive exploration of health metrics, risks, and pat
 ### Steps followed 
 Steps Taken:
 1️⃣ Loaded extensive health data into Power BI.
+
 2️⃣ Utilized Power Query Editor to ensure data quality.
+
 3️⃣ Created calculated measures for insightful KPIs.
+
 4️⃣ Crafted intuitive navigation with 3 buttons for dynamic data exploration.
+
 5️⃣ Developed a range of visualizations for impactful data representation.
+
 6️⃣ Ensured a user-friendly layout for easy comprehension.
 
  # Report Snapshot (Power BI DESKTOP)
