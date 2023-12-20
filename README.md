@@ -31,6 +31,8 @@ Steps Taken:
 
 ![Screenshot (324)](https://github.com/ajay9359/Project_1/assets/153490133/ed95f5c9-cea7-4611-aef7-d37b1a3ce154)
 
+https://app.powerbi.com/reportEmbed?reportId=3c21b467-37d2-459a-83ef-10ae2721a649&autoAuth=true&ctid=a8e638b3-b458-49d7-bd35-383afc8221f5
+
 # Insights
 
 Insights:
